@@ -25,11 +25,7 @@
 
 If you are logged in as an admin a button in navbar will show up which gives you controll on your products,users and orders.
 
-- The button :
-  <img width = "800" src="https://i.imgur.com/a7YFo86.png"/>
 
-- Products :
-  <img width = "800" src="https://i.imgur.com/AMrzaZW.png"/>
 
 - Add or Edit :
   <img width = "300" src="https://i.imgur.com/p725woy.png"/>
